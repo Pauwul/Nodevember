@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mikro-orm/core": "^5.5.2",
+    "@mikro-orm/mongodb": "^5.5.2",
+    "@mikro-orm/nestjs": "^5.1.2",
+    "dotenv": "^16.0.3"
+  }
+}
