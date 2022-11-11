@@ -1,0 +1,4 @@
+/nest-api/.env
+/nest-api/node_modules/*
+
+/node_modules/*
