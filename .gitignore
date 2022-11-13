@@ -2,3 +2,6 @@
 /nest-api/node_modules/*
 
 /node_modules/*
+/home/paul/CodingProjects/Nodevember/nest-api/.env
+
+*/node_modules/*
