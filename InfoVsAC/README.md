@@ -2,6 +2,8 @@
 
 # Info vs AC
 
+$$ \frac{yes}{yes} $$
+
 </div>
 
 Fisile materiilor de la AC au fost luate de pe site-ul oficial
